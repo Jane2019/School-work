@@ -6,7 +6,7 @@ The topic is self-decided and this topic comes to our mind because of curiosity 
 
 We all know supermarkets now have self-checkout machines and Express checkout counter when you buy fewer items.
 
-![Alt text](Stochastic%20simulation/Scenario%20explained.png)
+<img src='/Scenario%20explained.png'>
 
 This project will solving several interesting questions:
   
