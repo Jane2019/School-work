@@ -6,6 +6,8 @@ The topic is self-decided and this topic comes to our mind because of curiosity 
 
 We all know supermarkets now have self-checkout machines and Express checkout counter when you buy fewer items.
 
+![Alt text](/School-work/Stochastic/Scenario explained.jpg?raw=true "Optional Title")
+
 This project will solving several interesting questions:
   
   - Scenario I: How long is the waiting time when customers all go through the standard counters.
