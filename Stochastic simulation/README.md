@@ -16,4 +16,4 @@ This project will solving several interesting questions:
   
   We just did the queue simulation, not involve the labour cost and system cost optimazition, that is another big project :)
   
-  We used Scipy and part of the code is provided in the class by the coordinator.
+  We used Simpy and part of the code is provided in the class by the coordinator.
