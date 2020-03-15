@@ -10,6 +10,7 @@ This project is writen in Databricks in PySpark ,maily used SQL.
     - Give suggestions to local police, policy and visitors as well
 
   - Good points
+    - URL retrieve csv file to Databricks
     - PySpark SQL syntax
     - K-means
     
