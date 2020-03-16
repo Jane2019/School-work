@@ -26,7 +26,7 @@ The datasets used in my project cannot upload due to size limit, they include:
   
 * Future work
   - Use POS to interpret tweets and count POS frequency as features
-  - Turn hyperparameters in LR
+  - Tune hyperparameters in LR
   - Try other algorithms
 
 <img src='Images/1500-the-toppest-common-words.jpg' width='700' align='left'>
