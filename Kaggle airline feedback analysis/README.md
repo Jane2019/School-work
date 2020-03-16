@@ -29,4 +29,5 @@ The datasets used in my project cannot upload due to size limit, they include:
   - Turn hyperparameters in LR
   - Try other algorithms
 
-<img src='Image/1500-the-toppest-common-words.png'>
+<img src='Images/1500-the-toppest-common-words.jpg' width='700' align='left'>
+<img src='Images/public-attitude-towards-the-airlines.jpg' width='700' align='left'>
