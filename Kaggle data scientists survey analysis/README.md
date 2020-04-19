@@ -24,6 +24,9 @@ The purpose of this challenge is to “tell a data story about a subset of the d
   - Try neural networks
 
 * Future work
+
+Turn the regression problem into classification problem. Cut the salaries into several bins, make the bins classes using LabelEncoding. The accuracy may improve because the task is only to predict the salary range (classes), not a specific salary number.
+
   - Tuning hyperparameters
   - Try pipeline
   - More plots in EDA
