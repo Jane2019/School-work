@@ -1,4 +1,4 @@
-# Finance analysis on Piotroski score
+# Stock API analysis
 
 On my AI in finance course, I have recapped unsupervised learning algorithm and learnt deep learning in a nutshell.
 
@@ -7,7 +7,7 @@ I have done a finance project with 3 other members, I am the one who participate
 ## Table of contents
 
   - Objective
-    - Calculate the PIO score using 9 criterion for each stock each day downloaded from WRDS
+    - Calculate the Piotroski(PIO) score using 9 KPIs for each stock each day downloaded from WRDS
     - Build Random Forest classifier regarding whether the daily return is positive or negative
     - Compare the results with the PIO score calculated by ratios
   
