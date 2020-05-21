@@ -23,7 +23,13 @@ The datasets used in my project cannot upload due to size limit, they include:
   - Use of the most common word frequency as features
   - NLP tools
   - LR and multi-class LR
-  
+
+* Results
+  - Cleaned 10K+ airline tweets and 1K+ generic tweets by URLs, tags and stopwords removal and lowercase
+  - Represented public attitudes by aggregating satisfaction percentages and top frequent comments by word clouds
+  - Trained Logistic Regression on the generic dataset with word frequency as features and applied to the US airline dataset to predict user sentiments resulting as an accuracy of 76% and plotted the confusion matrix
+  - Addressed business strategies to airline companies on the aspect of low satisfaction and negative reasons
+
 * Future work
   - Use POS to interpret tweets and count POS frequency as features
   - Tune hyperparameters in LR
